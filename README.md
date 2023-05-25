@@ -7,4 +7,4 @@
 
 Run command "npm run start" to start the application.
 
-Deployed Link - 
+Deployed Link - https://tutdud.netlify.app/
